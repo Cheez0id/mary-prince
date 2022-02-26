@@ -1,5 +1,6 @@
 import './App.css';
-import Reggi from '../images/icons/reggi27.png';
+// import Reggi from './images/icons/reggi27/png';
+import Reggi from './images/icons/reggi27.png'
 
 function App() {
   return (
