@@ -25,6 +25,11 @@
   color: white;
 }
 
+.Nav-links{
+  padding-right: 1em;
+margin: 1em 0;
+}
+
 .App-body {
   background-color: darkslateblue;
   min-height: 100vh;
