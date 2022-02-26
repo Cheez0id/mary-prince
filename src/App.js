@@ -1,29 +1,23 @@
-import './App.css';
-// import Reggi from './images/icons/reggi27/png';
-import Reggi from './images/icons/reggi27.png'
+import "./App.css";
+
+import NavBar from "../src/components/NavBar";
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={Reggi} className="App-logo" alt="logo" />
-        <p>
-        This is now my App Muahahaha.
-        </p>
-        <a
-          className="App-link"
-          href="https://github.com/Cheez0id"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Go to Github Knave!!
-        </a>
-        <h1 class="text-3xl font-bold underline">
-    Hello world!
-  </h1>
-      </header>
-    </div>
-  );
+	return (
+		<div className="App">
+			<header className="App-header">
+				<NavBar />
+			
+			</header>
+test
+			<body className="App-body">
+        
+				<p>This is now my App Muahahaha.</p>
+
+				<h1 class="text-3xl font-bold underline">Hello world!</h1>
+			</body>
+		</div>
+	);
 }
 
 export default App;
