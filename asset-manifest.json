@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/mary-prince/static/css/main.49004305.css",
-    "main.js": "/mary-prince/static/js/main.c26dddaa.js",
+    "main.css": "/mary-prince/static/css/main.aac866fd.css",
+    "main.js": "/mary-prince/static/js/main.e537f371.js",
     "static/js/787.7b035dd0.chunk.js": "/mary-prince/static/js/787.7b035dd0.chunk.js",
     "static/media/reggi27.png": "/mary-prince/static/media/reggi27.0137f7613c49fedc59cf.png",
     "index.html": "/mary-prince/index.html",
-    "main.49004305.css.map": "/mary-prince/static/css/main.49004305.css.map",
-    "main.c26dddaa.js.map": "/mary-prince/static/js/main.c26dddaa.js.map",
+    "main.aac866fd.css.map": "/mary-prince/static/css/main.aac866fd.css.map",
+    "main.e537f371.js.map": "/mary-prince/static/js/main.e537f371.js.map",
     "787.7b035dd0.chunk.js.map": "/mary-prince/static/js/787.7b035dd0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.49004305.css",
-    "static/js/main.c26dddaa.js"
+    "static/css/main.aac866fd.css",
+    "static/js/main.e537f371.js"
   ]
 }
