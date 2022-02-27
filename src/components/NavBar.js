@@ -1,9 +1,10 @@
-import Reggi from '../images/icons/reggi27.png'
+import React from 'react';
+import Reggi from '../images/reggi27.png'
 
 
 export default function NavBar() {
   return (
-    <nav className="text-black App-header App-link">
+    <nav className= "App-header App-link">
     <img src={Reggi} className="App-logo " alt="logo" /> 
     
     <ul className="flex items-center">
