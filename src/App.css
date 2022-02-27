@@ -3,7 +3,6 @@
 }
 
 .App-logo {
-  height: 10vmin;
   pointer-events: none;
 }
 
@@ -58,6 +57,13 @@
 	margin-top: 25px;
 	margin-bottom: 25px;
 	border-radius: 5%;   
+}
+
+.center {
+  margin-left: auto;
+	margin-right: auto;
+	margin-top: 25px;
+	margin-bottom: 25px;
 }
 
 

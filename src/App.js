@@ -2,6 +2,8 @@ import React from "react";
 import "./App.css";
 import images from "./images/index.js";
 import NavBar from "../src/components/NavBar";
+import AboutMe from "../src/components/AboutMe";
+import Portfolio from "../src/components/Portfolio";
 
 function App() {
 	return (
@@ -10,10 +12,8 @@ function App() {
 				<NavBar />
 			</header>
 			<body className="App-body longbox">
-				<p>
-					<img src={images.logoPic} alt="marylogo"/>
-				</p>
-				
+			<AboutMe />
+								
 			</body>
 		</div>
 	);
