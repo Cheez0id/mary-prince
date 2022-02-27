@@ -7,6 +7,7 @@ const images = {
   hubble: require('./hubbledeep.png'),
   insta: require('./instagram.png'),
   logoBw: require('./logoBw.png'),
+  reggi: require('./reggi.png'),
 
 
 

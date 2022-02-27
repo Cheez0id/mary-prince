@@ -9,15 +9,18 @@ function App() {
 			<header>
 				<NavBar />
 			</header>
-			<p>test <img src={images.logoPic} alt="marylogo"/></p>
-			
-			<body className="App-body">
+			<body className="App-body longbox">
+				<p>
+					<img src={images.logoPic} alt="marylogo"/>
+				</p>
 				
 			</body>
-		</div>	
-			)};
+		</div>
+	);
+}
 
-{/* 				
+{
+	/* 				
 				<div>
 					<div className="longboxTop">
 						<img
@@ -211,6 +214,7 @@ function App() {
 			</body>
 		</div>
 	);
-} */}
+} */
+}
 
 export default App;

@@ -9,7 +9,7 @@
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
-    animation: App-logo-spin infinite 45s linear;
+    animation: App-logo-spin infinite 15s linear;
   }
 }
 
@@ -20,7 +20,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  padding: 200px;
+  padding: 20px;
 }
 
 .Nav-links{
@@ -52,63 +52,22 @@
 }
 
 
-* {
-	font-family: "Courier New", Courier, monospace;
-
-	color: #a7aff6;
-	text-align: center;
-	scroll-behavior: smooth;
-}
-.body {
-	background-color: rgb(0, 0, 0);
-    justify-content: center;
+.longbox {
+	/* background-image: url('./images/oldImages/hubbledeep.png'); */
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	border-radius: 5%;   
 }
 
-p {
-	font-size: 25px;
-	text-align: left;
-}
-ul {
-	display: inline-flex;
-}
 
-li {
-	font-size: 25px;
-	padding: 30px;
-	list-style-type: none;
-}
 #about {
 	margin-left: auto;
 	margin-right: auto;
 	margin-bottom: 10px;
 	padding: 45px;
 	width: 75%;
-}
-
-.longbox {
-	/* background-image: url('./images/oldImages/hubbledeep.png'); */
-	position: relative;
-	display: inline-flex;
-    flex-wrap: wrap;
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: 50px;
-	margin-bottom: 50px;
-	width: 75%;
-	border: 5px solid rgb(83, 52, 133);
-	border-radius: 5%;   
-}
-
-.longboxTop {
-	/* background-image: url('./images/oldImages/hubbledeep.png'); */
-	flex-wrap: wrap;
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: 50px;
-	margin-bottom: 50px;
-	width: 75%;
-	border: 5px solid rgb(83, 52, 133);
-	border-radius: 5%;   
 }
 
 .box {
@@ -138,23 +97,11 @@ li {
 	border: 5px solid rgb(255, 232, 27);
 }
 
-div.a {
-	line-height: 1.7;
-}
-
-img {
-	background-color: transparent;
-}
-
-#footer {
-	clear: both;
-	margin-bottom: 100px;
-}
 
 /* Tablets - */
 @media screen and (max-width: 992px) {
 	.longbox {
-		width: 50%;
+		width: 90%;
 	}
 	.bigbox {
 		width: 50%;
@@ -172,14 +119,14 @@ img {
 /* Large smartphones */
 @media screen and (max-width: 768px) {
 	.longbox {
-		width: 25%;
+		width: 80%;
 	}
 }
 
 /* Small smartphones */
 @media screen and (max-width: 576px) {
 	.longbox {
-		width: 25%;
+		width: 75%;
 	}
 	#about::after {
 		color: blue;
