@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/mary-prince/static/css/main.aac866fd.css",
-    "main.js": "/mary-prince/static/js/main.e537f371.js",
+    "main.css": "/mary-prince/static/css/main.da9e8b0a.css",
+    "main.js": "/mary-prince/static/js/main.33b06cf2.js",
     "static/js/787.7b035dd0.chunk.js": "/mary-prince/static/js/787.7b035dd0.chunk.js",
+    "static/media/hubbledeep.png": "/mary-prince/static/media/hubbledeep.fe362f6f609df5cdfafb.png",
+    "static/media/cookies.png": "/mary-prince/static/media/cookies.88f6ee3503e16bc5e2d9.png",
+    "static/media/logoBw.png": "/mary-prince/static/media/logoBw.a8596a02ec3577c6025c.png",
     "static/media/reggi27.png": "/mary-prince/static/media/reggi27.0137f7613c49fedc59cf.png",
+    "static/media/profileLogo.png": "/mary-prince/static/media/profileLogo.a686950a9bc768b9ed0a.png",
+    "static/media/foodFinder.jpg": "/mary-prince/static/media/foodFinder.2340c9634f2f352e09de.jpg",
+    "static/media/instagram.png": "/mary-prince/static/media/instagram.d7522ec5ee4245443227.png",
     "index.html": "/mary-prince/index.html",
-    "main.aac866fd.css.map": "/mary-prince/static/css/main.aac866fd.css.map",
-    "main.e537f371.js.map": "/mary-prince/static/js/main.e537f371.js.map",
+    "main.da9e8b0a.css.map": "/mary-prince/static/css/main.da9e8b0a.css.map",
+    "main.33b06cf2.js.map": "/mary-prince/static/js/main.33b06cf2.js.map",
     "787.7b035dd0.chunk.js.map": "/mary-prince/static/js/787.7b035dd0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aac866fd.css",
-    "static/js/main.e537f371.js"
+    "static/css/main.da9e8b0a.css",
+    "static/js/main.33b06cf2.js"
   ]
 }
