@@ -47,10 +47,9 @@
     transform: rotate(0deg);
   }
   to {
-    transform: rotate(360deg);
+    transform: rotate(-360deg);
   }
 }
-
 
 .longbox {
 	/* background-image: url('./images/oldImages/hubbledeep.png'); */
@@ -62,15 +61,15 @@
 }
 
 
-#about {
+/* #about {
 	margin-left: auto;
 	margin-right: auto;
 	margin-bottom: 10px;
 	padding: 45px;
 	width: 75%;
-}
+} */
 
-.box {
+/* .box {
 	display: flexbox;
 	float: left;
 	height: 300px;
@@ -81,9 +80,9 @@
 	margin-right: auto;
 	margin-top: 20px;
 	margin-bottom: 20px;
-}
+} */
 
-#bigbox {
+/* #bigbox {
 	flex-wrap: wrap;
 	display: flexbox;
 	padding: 9px;
@@ -95,24 +94,13 @@
 
 .middle {
 	border: 5px solid rgb(255, 232, 27);
-}
+} */
 
 
 /* Tablets - */
 @media screen and (max-width: 992px) {
 	.longbox {
 		width: 90%;
-	}
-	.bigbox {
-		width: 50%;
-	}
-	.scaleable {
-		width: 50%;
-		height: 50%;
-	}
-	.mary {
-		width: 150px;
-		height: 150px;
 	}
 }
 
@@ -127,9 +115,5 @@
 @media screen and (max-width: 576px) {
 	.longbox {
 		width: 75%;
-	}
-	#about::after {
-		color: blue;
-		content: ":P";
 	}
 }
