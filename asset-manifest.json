@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mary-prince/static/css/main.e4122de2.css",
-    "main.js": "/mary-prince/static/js/main.f59163bc.js",
+    "main.css": "/mary-prince/static/css/main.5d9d4dab.css",
+    "main.js": "/mary-prince/static/js/main.cb53372b.js",
     "static/js/787.7b035dd0.chunk.js": "/mary-prince/static/js/787.7b035dd0.chunk.js",
     "static/media/hubbledeep.png": "/mary-prince/static/media/hubbledeep.fe362f6f609df5cdfafb.png",
     "static/media/Octocat.png": "/mary-prince/static/media/Octocat.363cb5edea582a89c41f.png",
@@ -9,23 +9,23 @@
     "static/media/cookies.png": "/mary-prince/static/media/cookies.88f6ee3503e16bc5e2d9.png",
     "static/media/logoBw.png": "/mary-prince/static/media/logoBw.a8596a02ec3577c6025c.png",
     "static/media/reggi.png": "/mary-prince/static/media/reggi.0137f7613c49fedc59cf.png",
-    "static/media/logoPic.png": "/mary-prince/static/media/logoPic.a686950a9bc768b9ed0a.png",
     "static/media/foodFinder.jpg": "/mary-prince/static/media/foodFinder.2340c9634f2f352e09de.jpg",
     "static/media/penguin.png": "/mary-prince/static/media/penguin.80212ec1aebde45beec9.png",
     "static/media/snake.png": "/mary-prince/static/media/snake.a54532802a5f3ee6f877.png",
     "static/media/signature.png": "/mary-prince/static/media/signature.5ea1559688b2d981e27e.png",
     "static/media/port1.jpg": "/mary-prince/static/media/port1.80559c962caf395d664c.jpg",
     "static/media/resume.jpg": "/mary-prince/static/media/resume.069f238b4e06daa40aa6.jpg",
+    "static/media/logoPic.png": "/mary-prince/static/media/logoPic.d347baded4d86b4687a3.png",
     "static/media/traditional.jpg": "/mary-prince/static/media/traditional.b89b5b3ebb75856bc472.jpg",
     "static/media/workDay.jpg": "/mary-prince/static/media/workDay.dec4503b8b9e83999cfe.jpg",
     "static/media/instagram.png": "/mary-prince/static/media/instagram.d7522ec5ee4245443227.png",
     "index.html": "/mary-prince/index.html",
-    "main.e4122de2.css.map": "/mary-prince/static/css/main.e4122de2.css.map",
-    "main.f59163bc.js.map": "/mary-prince/static/js/main.f59163bc.js.map",
+    "main.5d9d4dab.css.map": "/mary-prince/static/css/main.5d9d4dab.css.map",
+    "main.cb53372b.js.map": "/mary-prince/static/js/main.cb53372b.js.map",
     "787.7b035dd0.chunk.js.map": "/mary-prince/static/js/787.7b035dd0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e4122de2.css",
-    "static/js/main.f59163bc.js"
+    "static/css/main.5d9d4dab.css",
+    "static/js/main.cb53372b.js"
   ]
 }
