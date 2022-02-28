@@ -50,13 +50,16 @@
   }
 }
 
+/* .containerbackground{
+		background-image: url('./public/assets/images/backgrounds/hubbledeep.png');
+}*/
+
 .longbox {
-	/* background-image: url('./images/oldImages/hubbledeep.png'); */
 	margin-left: auto;
 	margin-right: auto;
-	margin-top: 25px;
-	margin-bottom: 25px;
-	border-radius: 5%;   
+	margin: 30px;
+	padding:2%;
+	border-radius: 15%;   
 }
 
 .box {
@@ -83,9 +86,6 @@
 /* Tablets - */
 @media screen and (max-width: 992px) {
 	.longbox {
-		width: 90%;
-	},
-	.App-body {
 		width: 90%;
 	}
 }
