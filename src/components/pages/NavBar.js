@@ -1,5 +1,6 @@
 import React from "react";
 import images from "../../images/index";
+import resume from "../../Assets/Resume-MLP-1pg.pdf";
 
 function NavBar({ currentPage, handlePageChange }) {
 	return (
@@ -20,14 +21,14 @@ function NavBar({ currentPage, handlePageChange }) {
 					</a>
 				</li>
 				<li className="Nav-links">
-					<a href="https://github.com/Cheez0id/mary-prince">Portfolio*</a>
+					<a href="https://github.com/Cheez0id">Portfolio*</a>
 				</li>
 				<li className="Nav-links">
-					<a href="https://github.com/Cheez0id">Contact*</a>
+					<a href="https://cheez0id.github.io/MaryLeePrince-portfolio1/">Original Portfolio*</a>
 				</li>
 				<li className="Nav-links">
-					<a href="https://cheez0id.github.io/MaryLeePrince-portfolio1/">
-						Resume
+					<a href={resume} download="Resume-MLP-1pg.pdf">
+						Download Resume
 					</a>
 				</li>
 			</ul>
