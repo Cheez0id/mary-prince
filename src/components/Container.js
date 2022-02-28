@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import AboutMe from './pages/AboutMe';
+import NavBar from './pages/NavBar';
 
 
 export default function PageConntainer() {
@@ -21,7 +22,7 @@ export default function PageConntainer() {
   return (
     <div>
       {/* We are passing the currentPage from state and the function to update it */}
-      <NavTabs currentPage={currentPage} handlePageChange={handlePageChange} />
+      <NavBar currentPage={currentPage} handlePageChange={handlePageChange} />
       {/* Here we are calling the renderPage method which will return a component  */}
       {renderPage()}
     </div>

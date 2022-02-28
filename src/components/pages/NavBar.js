@@ -1,10 +1,13 @@
 import React from 'react';
-import images from "../images/index";
+import images from "../../images/index";
 
 
-export default function NavBar() {
+export default function NavBar({ currentPage, handlePageChange }) {
   return (
     <nav className= "App-header App-link ">
+
+
+
     <ul className="flex items-center ">
       <li><a className='Nav-links' href="/"><img src={images.logoPic} className="App-logo" alt="marylogo"/></a></li>
       <li className='Nav-links'><a href="/">Mary Prince</a></li>

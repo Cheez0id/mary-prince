@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
 import images from "./images/index.js";
-import NavBar from "../src/components/NavBar";
+import NavBar from "../src/components/pages/NavBar";
 import PageConntainer from "./components/Container";
 
 
