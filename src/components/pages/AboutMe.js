@@ -1,5 +1,5 @@
 import React from 'react';
-import images from "../images/index";
+import images from "../../images";
 
 
 
