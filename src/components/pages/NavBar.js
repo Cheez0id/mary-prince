@@ -11,7 +11,7 @@ function NavBar({ currentPage, handlePageChange }) {
 						href="#home"
 						onClick={() => handlePageChange("Home")}
 					>
-						<img src={images.logoPic} className="App-logo" alt="marylogo" />
+						<img src={images.logoPic} className="App-logo" alt="marylogo" width="100"/>
             Mary Prince</a>
 				</li>
 				
