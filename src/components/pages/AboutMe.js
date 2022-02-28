@@ -6,7 +6,7 @@ import images from "../../images";
 export default function AboutMe() {
   return (
     <div>
-     <p id="about"> Hi!
+     <p> Hi!
             My name is Mary Lee Prince. I started coding December 2021, and you can see by the content of my portfolio
             that I am advancing quickly.
             I also have excellent references available upon request. 

@@ -4,8 +4,8 @@ import NavBar from './pages/NavBar';
 import Home from './pages/Home';
 
 
-export default function PageConntainer() {
-  const [currentPage, setCurrentPage] = useState('');
+export default function PageContainer() {
+  const [currentPage, setCurrentPage] = useState('Home');
 
   // This method is checking to see what the value of `currentPage` is. Depending on the value of currentPage, we return the corresponding component to render.
   const renderPage = () => {
@@ -15,8 +15,6 @@ export default function PageConntainer() {
     return <Home/>
 
   };
-  renderPage();
-
 
 
   const handlePageChange = (page) => setCurrentPage(page);

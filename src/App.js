@@ -1,11 +1,10 @@
 import React from "react";
 import "./App.css";
-import images from "./images/index.js";
-import NavBar from "../src/components/pages/NavBar";
-import PageConntainer from "./components/Container";
+import PageContainer from "./components/Container";
 
 
-const App = () => <PageConntainer />;
+
+const App = () => <PageContainer />;
 
 
 // function App() {
