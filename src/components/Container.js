@@ -28,10 +28,10 @@ export default function PageContainer() {
   const handlePageChange = (page) => setCurrentPage(page);
 
   return (
-    <div>
+    <div className='leading-normal tracking-normal text-indigo-400 m-6 bg-cover bg-fixed'>
       {/* We are passing the currentPage from state and the function to update it */}
       <NavBar currentPage={currentPage} handlePageChange={handlePageChange} />
-      {/* Here we are calling the renderPage method which will return a component  */}
+ 
       {renderPage()}
     </div>
   );
