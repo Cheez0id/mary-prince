@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import AboutMe from './pages/AboutMe';
 import NavBar from './pages/NavBar';
 import Home from './pages/Home';
+import Portfolio from './pages/Portfolio';
 
 
 export default function PageContainer() {
@@ -11,6 +12,9 @@ export default function PageContainer() {
   const renderPage = () => {
     if (currentPage === 'AboutMe') {
       return <AboutMe />;
+    }
+    if (currentPage === 'Portfolio') {
+      return <Portfolio />;
     }
     return <Home/>
 

@@ -21,7 +21,12 @@ function NavBar({ currentPage, handlePageChange }) {
 					</a>
 				</li>
 				<li className="Nav-links">
-					<a href="https://github.com/Cheez0id">Portfolio*</a>
+        <a href="#Portflio" onClick={() => handlePageChange("Portfolio")}>
+						Portfolio*
+					</a>
+				</li>
+        <li className="Nav-links">
+					<a href="https://github.com/Cheez0id">Github</a>
 				</li>
 				<li className="Nav-links">
 					<a href="https://cheez0id.github.io/MaryLeePrince-portfolio1/">Original Portfolio*</a>
