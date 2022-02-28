@@ -11,12 +11,11 @@ const emailCopy = () =>{document
 		event.preventDefault();
 		navigator.clipboard.writeText("maryleeprince.ga@gmail.com");
 	});};
-emailCopy();
   return (
-    <div id="footer" class="longbox">
+    <div className="longbox App-body">
 
       
-        <img src={images.logoPic} alt="mary's profile pic"/>maryleeprince.ga@gmail.com  <button id="maryEmail">Copy</button>
+        <img src={images.logoPic} alt="mary's profile pic"/>maryleeprince.ga@gmail.com  <button id="maryEmail">(Copy)</button>
       
 
     <li class="box">

@@ -5,7 +5,7 @@ import images from "../../images/index";
 
 export default function Portfolio() {
   return (
-    <section class="longbox">
+    <section className="longbox App-body" >
             <div class="box">
                 <h2>E-Commerce Group Project</h2>
                 <a href="https://cookies-for-coders-mary.herokuapp.com">Cookies for coders

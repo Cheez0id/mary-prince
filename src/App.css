@@ -83,7 +83,10 @@
 /* Tablets - */
 @media screen and (max-width: 992px) {
 	.longbox {
-		width: 100%;
+		width: 90%;
+	},
+	.App-body {
+		width: 90%;
 	}
 }
 
