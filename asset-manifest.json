@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mary-prince/static/css/main.31ee2942.css",
-    "main.js": "/mary-prince/static/js/main.01f70924.js",
+    "main.css": "/mary-prince/static/css/main.a35091d7.css",
+    "main.js": "/mary-prince/static/js/main.cd5ecc12.js",
     "static/js/787.7b035dd0.chunk.js": "/mary-prince/static/js/787.7b035dd0.chunk.js",
     "static/media/hubbledeep.png": "/mary-prince/static/media/hubbledeep.fe362f6f609df5cdfafb.png",
     "static/media/Octocat.png": "/mary-prince/static/media/Octocat.363cb5edea582a89c41f.png",
@@ -27,12 +27,12 @@
     "static/media/social.jpg": "/mary-prince/static/media/social.74952b977f8c0196d292.jpg",
     "static/media/employee.jpg": "/mary-prince/static/media/employee.cedf85e7f7710914dc02.jpg",
     "index.html": "/mary-prince/index.html",
-    "main.31ee2942.css.map": "/mary-prince/static/css/main.31ee2942.css.map",
-    "main.01f70924.js.map": "/mary-prince/static/js/main.01f70924.js.map",
+    "main.a35091d7.css.map": "/mary-prince/static/css/main.a35091d7.css.map",
+    "main.cd5ecc12.js.map": "/mary-prince/static/js/main.cd5ecc12.js.map",
     "787.7b035dd0.chunk.js.map": "/mary-prince/static/js/787.7b035dd0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.31ee2942.css",
-    "static/js/main.01f70924.js"
+    "static/css/main.a35091d7.css",
+    "static/js/main.cd5ecc12.js"
   ]
 }
