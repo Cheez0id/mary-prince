@@ -2,6 +2,7 @@ import React from 'react';
 
 const images = {
   logoPic: require('./logoPic.png'),
+  logoPic2: require('./logoPic2.png'),
   cookies: require('./cookies.png'),
   foodFinder: require('./foodFinder.jpg'),
   hubble: require('./hubbledeep.png'),

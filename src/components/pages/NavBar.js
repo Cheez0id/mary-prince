@@ -12,7 +12,7 @@ function NavBar({ currentPage, handlePageChange }) {
 						href="#home"
 						onClick={() => handlePageChange("Home")}
 					>
-						<img src={images.logoPic} className="App-logo" alt="marylogo" width="100"/><span class="bg-clip-text text-transparent bg-gradient-to-r from-green-400 via-pink-500 to-purple-500 hover:no-underline font-bold text-2xl lg:text-2xl">
+						<img src={images.logoPic2} className="App-logo" alt="marylogo" width="100"/><span class="bg-clip-text text-transparent bg-gradient-to-r from-green-400 via-pink-500 to-purple-500 hover:no-underline font-bold text-2xl lg:text-2xl">
               Mary Prince
             </span>
           </a>
