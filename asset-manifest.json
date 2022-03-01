@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mary-prince/static/css/main.040fb8bd.css",
-    "main.js": "/mary-prince/static/js/main.a8b62a08.js",
+    "main.css": "/mary-prince/static/css/main.467957ee.css",
+    "main.js": "/mary-prince/static/js/main.58f1361e.js",
     "static/js/787.7b035dd0.chunk.js": "/mary-prince/static/js/787.7b035dd0.chunk.js",
     "static/media/hubbledeep.png": "/mary-prince/static/media/hubbledeep.fe362f6f609df5cdfafb.png",
     "static/media/Octocat.png": "/mary-prince/static/media/Octocat.363cb5edea582a89c41f.png",
@@ -23,12 +23,12 @@
     "static/media/instagram.png": "/mary-prince/static/media/instagram.d7522ec5ee4245443227.png",
     "static/media/Resume-MLP-1pg.pdf": "/mary-prince/static/media/Resume-MLP-1pg.3a93f44608335369856f.pdf",
     "index.html": "/mary-prince/index.html",
-    "main.040fb8bd.css.map": "/mary-prince/static/css/main.040fb8bd.css.map",
-    "main.a8b62a08.js.map": "/mary-prince/static/js/main.a8b62a08.js.map",
+    "main.467957ee.css.map": "/mary-prince/static/css/main.467957ee.css.map",
+    "main.58f1361e.js.map": "/mary-prince/static/js/main.58f1361e.js.map",
     "787.7b035dd0.chunk.js.map": "/mary-prince/static/js/787.7b035dd0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.040fb8bd.css",
-    "static/js/main.a8b62a08.js"
+    "static/css/main.467957ee.css",
+    "static/js/main.58f1361e.js"
   ]
 }
