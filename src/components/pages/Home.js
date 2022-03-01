@@ -6,7 +6,12 @@ import images from "../../images/index";
 export default function Home() {
   return (
     <div className= "App-body longbox bg-cover bg-fixed">
-   something soemthing
+      <div className='leading-loose'><ul>
+        <li>> Full-Stack Web Developer</li>
+        <li>> Project Management Experience</li>
+        <li>> Excellent Verbal and Written Communication Skills</li>
+        </ul>
     </div>
+  </div>
   )
 };

@@ -32,13 +32,21 @@
   url(
 "./darkRainbow.png");
   min-height: 100vh;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
+  display:flex;
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
 }
+
+
+.longbox {
+	margin-left: auto;
+	margin-right: auto;
+	margin: 30px;
+	padding:30%;
+	border-radius: 15%;   
+}
+
 .App-link {
   color: #56f0d7;
 	
@@ -57,13 +65,7 @@
 		background-image: url('./public/assets/images/backgrounds/hubbledeep.png');
 }*/
 
-.longbox {
-	margin-left: auto;
-	margin-right: auto;
-	margin: 30px;
-	padding:2%;
-	border-radius: 15%;   
-}
+
 
 .box {
 	display: flexbox;
