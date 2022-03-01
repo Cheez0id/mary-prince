@@ -47,6 +47,11 @@
 	border-radius: 15%;   
 }
 
+.inlineImage {
+	border-radius: 15%;  
+	padding-top:5%; 
+}
+
 .App-link {
   color: #56f0d7;
 	font-weight: 600;

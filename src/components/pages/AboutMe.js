@@ -16,7 +16,9 @@ export default function AboutMe() {
             background screening to learn these new skills for self-improvement and to find employment with good
             compensation while maintaing healthy work-life balance.
     </p>
+    <img src={images.traditional} className="shadow-lg inlineImage" alt="mary" />
     </div>
+    
   </div>
   )
 };
