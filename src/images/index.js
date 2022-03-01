@@ -18,6 +18,7 @@ const images = {
   resume: require('./resume.jpg'),
   signature: require('./signature.png'),
   snake: require('./snake.png'),
+  social: require('./social.jpg'),
   traditional: require('./traditional.jpg'),
   weather: require('./weather.jpg'),
   workDay: require('./workDay.jpg'),
