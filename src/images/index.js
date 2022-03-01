@@ -4,6 +4,7 @@ const images = {
   logoPic: require('./logoPic.png'),
   logoPic2: require('./logoPic2.png'),
   cookies: require('./cookies.png'),
+  employee: require('./employee.jpg'),
   epiMood: require('./epiMoodLogo.png'),
   foodFinder: require('./foodFinder.jpg'),
   hubble: require('./hubbledeep.png'),
@@ -18,7 +19,9 @@ const images = {
   signature: require('./signature.png'),
   snake: require('./snake.png'),
   traditional: require('./traditional.jpg'),
+  weather: require('./weather.jpg'),
   workDay: require('./workDay.jpg'),
+ 
 
 }
 
