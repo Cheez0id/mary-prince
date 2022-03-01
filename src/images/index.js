@@ -12,6 +12,7 @@ const images = {
   linkedIn: require('./linkedIn.png'),
   logoBw: require('./logoBw.png'),
   logoMp: require('./logoMp.png'),
+  mary: require('./mary.jpg'),
   octoCat: require('./Octocat.png'),
   penguin: require('./penguin.png'),
   port1: require('./port1.jpg'),
