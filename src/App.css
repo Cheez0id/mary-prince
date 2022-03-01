@@ -28,7 +28,9 @@
 }
 
 .App-body {
-  background-color: darkslateblue;
+  background-image: 
+  url(
+"./darkRainbow.png");
   min-height: 100vh;
   display: flex;
   flex-direction: row;

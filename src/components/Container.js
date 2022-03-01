@@ -6,6 +6,9 @@ import Portfolio from './pages/Portfolio';
 import Contact from './pages/Contact';
 
 
+
+
+
 export default function PageContainer() {
   const [currentPage, setCurrentPage] = useState('Home');
 
@@ -28,7 +31,7 @@ export default function PageContainer() {
   const handlePageChange = (page) => setCurrentPage(page);
 
   return (
-    <div className='leading-normal tracking-normal text-indigo-400 m-6 bg-cover bg-fixed'>
+    <div className='bg-cover bg-fixed'>
       {/* We are passing the currentPage from state and the function to update it */}
       <NavBar currentPage={currentPage} handlePageChange={handlePageChange} />
  
