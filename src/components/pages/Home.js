@@ -5,7 +5,7 @@ import images from "../../images/index";
 
 export default function Home() {
   return (
-    <div className= "App-body bg-cover bg-fixed">
+    <div className= "App-body longbox bg-cover bg-fixed">
    something soemthing
     </div>
   )
