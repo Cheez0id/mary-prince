@@ -36,6 +36,7 @@ export default function PageContainer() {
       <NavBar currentPage={currentPage} handlePageChange={handlePageChange} />
  
       {renderPage()}
+      
     </div>
   );
 }

@@ -7,13 +7,13 @@ function NavBar({ currentPage, handlePageChange }) {
 		<nav className="App-link flex justify-center lg:items-start overflow-y-hidden mx-14   sm:py-5  absolute ">
 			
 			<ul>
-				<li className="Nav-links ">
+				<li className="Nav-links">
 					<a
 						href="#home"
 						onClick={() => handlePageChange("Home")}
 					>
 						<img src={images.logoPic2} className="App-logo" alt="marylogo" width="100"/><span class="bg-clip-text text-transparent bg-gradient-to-r from-teal-400 via-pink-500 to-purple-500 hover:no-underline font-bold text-2xl lg:text-2xl">
-              Mary Prince
+              Mary Lee Prince
             </span>
           </a>
 				</li>
