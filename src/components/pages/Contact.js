@@ -12,7 +12,7 @@ const emailCopy = () =>{document
 		navigator.clipboard.writeText("maryleeprince.ga@gmail.com");
 	});};
   return (
-    <div className="longbox App-body">
+    <div className="longbox App-body ">
 
       
         <img src={images.logoPic} alt="mary's profile pic"/>maryleeprince.ga@gmail.com  <button id="maryEmail">(Copy)</button>

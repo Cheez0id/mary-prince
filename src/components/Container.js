@@ -31,7 +31,7 @@ export default function PageContainer() {
   const handlePageChange = (page) => setCurrentPage(page);
 
   return (
-    <div className='bg-cover bg-fixed'>
+    <div className='bg-cover bg-fixed inline-flex'>
       {/* We are passing the currentPage from state and the function to update it */}
       <NavBar currentPage={currentPage} handlePageChange={handlePageChange} />
  
