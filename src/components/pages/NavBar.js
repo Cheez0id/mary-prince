@@ -33,12 +33,14 @@ function NavBar({ currentPage, handlePageChange }) {
 						Contact
 					</a>
 				</li>
+				
         <li className="Nav-links">
-					<a href="https://github.com/Cheez0id">Github*</a>
+					<a href="https://github.com/Cheez0id">Github</a>
 				</li>
 				<li className="Nav-links">
-					<a href="https://cheez0id.github.io/MaryLeePrince-portfolio1/">Original Portfolio*</a>
+					<a href="https://cheez0id.github.io/MaryLeePrince-portfolio1/">Original Portfolio</a>
 				</li>
+				
 				<li className="Nav-links">
 					<a href={resume} download="Resume-MLP-1pg.pdf">
                           
@@ -47,6 +49,7 @@ function NavBar({ currentPage, handlePageChange }) {
               </button>
 					</a>
 				</li>
+				
 			</ul>
 			
 		</nav>

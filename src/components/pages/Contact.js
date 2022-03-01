@@ -1,48 +1,61 @@
-import React from 'react';
+import React from "react";
 import images from "../../images";
-
-
+import moment from 'moment';
 
 export default function Contact() {
-  //should copy text onclick
-const emailCopy = () =>{document
-	.getElementById("maryEmail")
-	.addEventListener("click", function (event) {
-		event.preventDefault();
-		navigator.clipboard.writeText("maryleeprince.ga@gmail.com");
-	});};
-  return (
-    <div className="longbox App-body ">
+	//should copy text onclick
+	const emailCopy = () => {
+		document
+			.getElementById("maryEmail")
+			.addEventListener("click", function (event) {
+				event.preventDefault();
+				navigator.clipboard.writeText("maryleeprince.ga@gmail.com");
+			});
+	};
 
-      
-        <img src={images.logoPic} alt="mary's profile pic"/>maryleeprince.ga@gmail.com  <button id="maryEmail">(Copy)</button>
-      
+ 
 
-    <li class="box">
-        <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light"
-            data-type="VERTICAL" data-vanity="mary-prince-005404200" data-version="v1"><a
-                class="badge-base__link LI-simple-link"
-                href="https://www.linkedin.com/in/mary-prince-005404200?trk=profile-badge">Linkedin</a>
-        </div>
-     </li>   
-      
-    <li class="box">
-        <h3><a href="https://github.com/Cheez0id"><img src={images.octoCat}
-                    alt="my github" />  Github</a></h3>
-    </li>  
-    <li class="box">
-        <h3><a href="assets/Updated Resume docs/Resume-MLP-1pg.pdf" download="Resume-MLP-1pg.pdf"><img src={images.resume} alt="octocat" />  Resume</a>
-        </h3>
-    </li> 
+	return (
+		<div className="longbox App-body ">
+<div className= "App-body longbox bg-cover bg-fixed flex-wrap ">
+           <div className='leading-loose longbox space-x-5 '>
+               <span class="bg-clip-text text-transparent bg-gradient-to-r from-teal-400 via-pink-500 to-purple-500 hover:no-underline Nav-links font-bold shadow-lg">
+               <button id="maryEmail">maryleeprince.ga@gmail.com </button>
+            </span>
+            <div>
+            <span class="bg-clip-text text-transparent bg-gradient-to-r from-teal-400 via-pink-500 to-purple-500 hover:no-underline Nav-links font-bold shadow-lg">
+               <button><a href="https://www.linkedin.com/in/mary-prince-005404200/"><img src={images.linkedIn} alt="my github" alt="marylogo" width="150"/>Linkedin</a></button>
+            </span>
+            <span class="bg-clip-text text-transparent bg-gradient-to-r from-teal-400 via-pink-500 to-purple-500 hover:no-underline Nav-links font-bold shadow-lg">
+               <button><a href="https://github.com/Cheez0id"><img src={images.octoCat} alt="my github" alt="marylogo" width="150"/>Github</a></button>
+            </span>
+            <span class="bg-clip-text text-transparent bg-gradient-to-r from-teal-400 via-pink-500 to-purple-500 hover:no-underline Nav-links font-bold shadow-lg">
+               <button><a href="https://www.instagram.com/marypaintsart/"><img src={images.logoMp} alt="instagram" alt="marylogo" width="150"/>Instagram</a></button>
+            </span>
+            </div>
+            
 
-    <li class="box">
-        <h3>Reference Letter and References available upon request!</h3>
-    </li>  
+            <div>Reference Letter and References available upon request!</div>
+              
+           </div>
+     </div>
 
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script>
+			
 
-</div>
-  )
-};
+			
+		
+			
+
+		
+			
+		</div>
+	);
+}
+
+
+
+
+
+
+

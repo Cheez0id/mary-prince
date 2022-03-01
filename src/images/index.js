@@ -9,6 +9,7 @@ const images = {
   foodFinder: require('./foodFinder.jpg'),
   hubble: require('./hubbledeep.png'),
   insta: require('./instagram.png'),
+  linkedIn: require('./linkedIn.png'),
   logoBw: require('./logoBw.png'),
   logoMp: require('./logoMp.png'),
   octoCat: require('./Octocat.png'),
