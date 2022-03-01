@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mary-prince/static/css/main.b7f62c73.css",
-    "main.js": "/mary-prince/static/js/main.f19e55c8.js",
+    "main.js": "/mary-prince/static/js/main.eafc9996.js",
     "static/js/787.7b035dd0.chunk.js": "/mary-prince/static/js/787.7b035dd0.chunk.js",
     "static/media/hubbledeep.png": "/mary-prince/static/media/hubbledeep.fe362f6f609df5cdfafb.png",
     "static/media/Octocat.png": "/mary-prince/static/media/Octocat.363cb5edea582a89c41f.png",
@@ -14,6 +14,7 @@
     "static/media/foodFinder.jpg": "/mary-prince/static/media/foodFinder.2340c9634f2f352e09de.jpg",
     "static/media/penguin.png": "/mary-prince/static/media/penguin.80212ec1aebde45beec9.png",
     "static/media/snake.png": "/mary-prince/static/media/snake.a54532802a5f3ee6f877.png",
+    "static/media/mary.jpg": "/mary-prince/static/media/mary.b10e931b6b4ee9fc907a.jpg",
     "static/media/signature.png": "/mary-prince/static/media/signature.5ea1559688b2d981e27e.png",
     "static/media/port1.jpg": "/mary-prince/static/media/port1.80559c962caf395d664c.jpg",
     "static/media/resume.jpg": "/mary-prince/static/media/resume.069f238b4e06daa40aa6.jpg",
@@ -28,11 +29,11 @@
     "static/media/employee.jpg": "/mary-prince/static/media/employee.cedf85e7f7710914dc02.jpg",
     "index.html": "/mary-prince/index.html",
     "main.b7f62c73.css.map": "/mary-prince/static/css/main.b7f62c73.css.map",
-    "main.f19e55c8.js.map": "/mary-prince/static/js/main.f19e55c8.js.map",
+    "main.eafc9996.js.map": "/mary-prince/static/js/main.eafc9996.js.map",
     "787.7b035dd0.chunk.js.map": "/mary-prince/static/js/787.7b035dd0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b7f62c73.css",
-    "static/js/main.f19e55c8.js"
+    "static/js/main.eafc9996.js"
   ]
 }
