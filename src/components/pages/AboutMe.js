@@ -5,8 +5,8 @@ import images from "../../images";
 
 export default function AboutMe() {
   return (
-    <div className='longbox App-body '>
-     <p className='shadow-2xl'> Hi!
+    <div className='App-body longbox bg-cover bg-fixed leading-loose shadow-2xl'>
+     <p> Hi!
             My name is Mary Lee Prince. I started coding December 2021, and you can see by the content of my portfolio
             that I am advancing quickly.
             I also have excellent references available upon request. 
