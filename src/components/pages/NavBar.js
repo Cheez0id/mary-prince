@@ -4,7 +4,7 @@ import resume from "../../Assets/Resume-MLP-1pg.pdf";
 
 function NavBar({ currentPage, handlePageChange }) {
 	return (
-		<nav className="App-link  justify-center lg:items-start  mx-14   sm:py-5  inline-flex ">
+		<nav className="App-link  justify-center   mx-14   sm:py-5  inline-flex ">
 			
 			<ul className="abolute">
 				<li className="Nav-links">
