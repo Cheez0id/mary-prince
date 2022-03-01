@@ -49,7 +49,10 @@
 
 .App-link {
   color: #56f0d7;
-	
+	font-weight: 600;
+}
+.App-link-repo {
+  color: #20f5ce;
 }
 
 @keyframes App-logo-spin {
@@ -60,7 +63,6 @@
     transform: rotate(-360deg);
   }
 }
-
 
 
 .box {

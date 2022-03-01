@@ -4,34 +4,37 @@ import images from "../../images/index";
 
 
 export default function Portfolio() {
-  return (
-    <section className="longbox App-body" >
-            <div class="box">
-                <h2>E-Commerce Group Project</h2>
-                <a href="https://cookies-for-coders-mary.herokuapp.com">Cookies for coders
-                </a>
-                <a href="https://github.com/Cheez0id/Full_Stack_Store" alt="repo">Repo</a>
-
-            </div>
-            <div class="box">
-                <h2>Weather Dashboard Homework Github (in progress)</h2>
-                <a href="https://cheez0id.github.io/Weather-Dashboard-Homework"> Weather Dashboard </a>
+    return (
+      <div className= "App-body longbox bg-cover bg-fixed">
+        <div className='leading-loose shadow-2xl longbox '>
                 
-                <a href="https://github.com/Cheez0id/Weather-Dashboard-Homework" alt="repo">Repo</a>
+         <ul>
+    <li>Personal Projects</li>       
+         <li><a className="App-link inline-flex" href="https://epimoodtracker.herokuapp.com/"><img src={images.epiMood} className="shadow-lg" alt="epimoodlogo" width="150"/>
+                </a>
+                <a className="App-link-repo" href="https://github.com/Cheez0id/EpiMood" alt="repo">  >Repo</a></li>
+    <li>Group Projects</li>
+        <li><a className="App-link inline-flex" href="https://cookies-for-coders-mary.herokuapp.com"><img src={images.cookies} className="shadow-lg" alt="epimoodlogo" width="150"/>
+                </a>
+                <a className="App-link-repo" href="https://github.com/Cheez0id/Full_Stack_Store" alt="repo">  > Group Repo</a></li>
+           
 
-            </div>
-            <div class="box">
-                <h2>Group Project - Charity Locator</h2>
-                <a href="https://cheez0id.github.io/Charity-Locator-Project-P1G7">
-                   Charity Locator Project
+    <li>Coursework</li>      
+        <li><a className="App-link" href="https://cheez0id.github.io/Weather-Dashboard-Homework">Weather Dashboard
                 </a>
-            </div>
-            <div class="box">
-                <h2>Group Project - Charity Locator Github</h2>
-                <a href="https://github.com/Cheez0id/Charity-Locator-Project-P1G7">
-                   repo
+                <a className="App-link-repo" href="https://github.com/Cheez0id/Weather-Dashboard-Homework" alt="repo">  >Repo</a></li>    
+                           
+        <li><a className="App-link" href="https://cheez0id.github.io/Charity-Locator-Project-P1G7">Charity-Locator (Group Project)
                 </a>
-            </div>
-        </section>
-  )
-};
+                <a className="App-link-repo" href="https://github.com/Cheez0id/Charity-Locator-Project-P1G7" alt="repo">  >Repo</a></li> 
+
+        </ul>
+                
+
+      
+      </div>
+    </div>
+    )
+  };
+
+

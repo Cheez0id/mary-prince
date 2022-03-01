@@ -4,6 +4,7 @@ const images = {
   logoPic: require('./logoPic.png'),
   logoPic2: require('./logoPic2.png'),
   cookies: require('./cookies.png'),
+  epiMood: require('./epiMoodLogo.png'),
   foodFinder: require('./foodFinder.jpg'),
   hubble: require('./hubbledeep.png'),
   insta: require('./instagram.png'),
@@ -18,6 +19,7 @@ const images = {
   snake: require('./snake.png'),
   traditional: require('./traditional.jpg'),
   workDay: require('./workDay.jpg'),
+
 }
 
 export default images;
