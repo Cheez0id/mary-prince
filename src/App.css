@@ -8,7 +8,7 @@
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
-    animation: App-logo-spin infinite 15s linear;
+    animation: App-logo-spin infinite 30s linear;
   }
 }
 
@@ -60,10 +60,6 @@
     transform: rotate(-360deg);
   }
 }
-
-/* .containerbackground{
-		background-image: url('./public/assets/images/backgrounds/hubbledeep.png');
-}*/
 
 
 

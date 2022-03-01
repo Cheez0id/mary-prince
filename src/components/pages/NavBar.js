@@ -6,14 +6,14 @@ function NavBar({ currentPage, handlePageChange }) {
 	return (
 		<nav className="App-link flex justify-center lg:items-start overflow-y-hidden mx-14   sm:py-5  inline-flex">
 			
-			<ul>
+			<ul className="relative">
 				<li className="Nav-links">
 					<a
 						href="#home"
 						onClick={() => handlePageChange("Home")}
 					>
 						<img src={images.logoPic2} className="App-logo shadow-lg" alt="marylogo" width="100"/><span class="bg-clip-text text-transparent bg-gradient-to-r from-teal-400 via-pink-500 to-purple-500 hover:no-underline Nav-links font-bold text-xl ">
-              Mary Lee Prince
+              Mary Prince
             </span>
           </a>
 				</li>
@@ -42,7 +42,7 @@ function NavBar({ currentPage, handlePageChange }) {
 				<li className="Nav-links">
 					<a href={resume} download="Resume-MLP-1pg.pdf">
                           
-						<button class="bg-gradient-to-r from-purple-800 to-teal-500 hover:from-pink-500 hover:to-teal-500 text-white py-2 px-2 rounded focus:ring transform transition hover:scale-105 duration-300 ease-in-out shadow-lg" type="button">
+						<button class="bg-gradient-to-r from-purple-800 to-teal-500 hover:from-pink-500 hover:to-teal-500 text-white py-2 px-2 rounded focus:ring transform transition hover:scale-105 duration-300 ease-in-out shadow-lg absolute" type="button">
                 Download Resume
               </button>
 					</a>
