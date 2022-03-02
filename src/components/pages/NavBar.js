@@ -26,7 +26,7 @@ function NavBar({ currentPage, handlePageChange }) {
 
 				<li className="Nav-links">
 					<a href="#Portflio" onClick={() => handlePageChange("Portfolio")}>
-						<span class="bg-clip-text text-transparent bg-gradient-to-r from-teal-400 via-pink-500 to-purple-500 hover:no-underline Nav-links font-bold text-xl ">
+						<span class="bg-clip-text text-transparent bg-gradient-to-r from-teal-400 via-pink-500 to-purple-500 hover:no-underline Nav-links font-bold text-2xl ">
 							Portfolio
 						</span>
 					</a>
@@ -45,11 +45,7 @@ function NavBar({ currentPage, handlePageChange }) {
 				<li className="Nav-links">
 					<a href="https://github.com/Cheez0id">Github</a>
 				</li>
-				<li className="Nav-links">
-					<a href="https://cheez0id.github.io/MaryLeePrince-portfolio1/">
-						Original Portfolio
-					</a>
-				</li>
+
 
 				<li className="Nav-links">
 					<a href={resume} download="Resume-MLP-1pg.pdf">

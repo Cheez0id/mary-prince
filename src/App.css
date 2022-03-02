@@ -81,14 +81,11 @@
 .box {
 	display: flexbox;
 	float: left;
-	height: 300px;
-	width: 300px;
 	padding: 9px;
 	border-radius: 15%;
 	margin-left: auto;
 	margin-right: auto;
-	margin-top: 20px;
-	margin-bottom: 20px;
+
 }
 
 
