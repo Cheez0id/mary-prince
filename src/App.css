@@ -104,22 +104,22 @@ a {
 
 
 /* Tablets - */
-@media screen and (max-width: 992px) {
+/* @media screen and (max-width: 992px) {
 	.longbox {
 		width: 90%;
 	}
-}
+} */
 
 /* Large smartphones */
-@media screen and (max-width: 768px) {
+/* @media screen and (max-width: 768px) {
 	.longbox {
 		width: 80%;
 	}
-}
+} */
 
 /* Small smartphones */
-@media screen and (max-width: 576px) {
+/* @media screen and (max-width: 576px) {
 	.longbox {
 		width: 75%;
 	}
-}
+} */

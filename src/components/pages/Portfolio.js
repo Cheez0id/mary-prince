@@ -6,17 +6,19 @@ import images from "../../images/index";
 export default function Portfolio() {
     return (
       <div className= "App-body longbox bg-cover bg-fixed flex-wrap">
-           <img src={images.signature} className="float-left" alt="bootstrap" width="200"/>
+           <img src={images.signature} className="inlineImage" alt="bootstrap" width="200"/>
            <section className='leading-loose longbox space-x-3 '>
            <h1><span class="bg-clip-text text-transparent bg-gradient-to-r from-teal-400 via-pink-500 to-purple-500 hover:no-underline Nav-links font-bold shadow-lg">
               Personal Projects
             </span></h1><card>
+            
                <a className="App-link inline-flex 
                transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110  duration-300" href="https://epimoodtracker.herokuapp.com/"><img src={images.epiMood} className="shadow-lg inlineImage" alt="epimoodlogo" width="250"/>
-                </a><br></br>
+               
+                </a><iframe className='inlineImage' src="https://drive.google.com/file/d/14flS4Oj-f50S8AWWzbh7lSEEbSpgph-c/preview" width="400" height="300" allow="autoplay"></iframe>
                 <button className=' transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110  duration-300'><a className="App-link-repo" href="https://github.com/Cheez0id/EpiMood" alt="repo">> Repo</a></button>
                 </card>
-                <iframe className='inlineImage' src="https://drive.google.com/file/d/14flS4Oj-f50S8AWWzbh7lSEEbSpgph-c/preview" width="640" height="480" allow="autoplay"></iframe>
+                
                 <card >
                 <h1><span class="bg-clip-text text-transparent bg-gradient-to-r from-teal-400 via-pink-500 to-purple-500 hover:no-underline Nav-links font-bold shadow-lg">
               Original Portfolio

@@ -19,10 +19,12 @@ export default function Contact() {
 		<div className="longbox App-body ">
 <div className= "App-body longbox bg-cover bg-fixed flex-wrap ">
 <img src={images.signature} alt="bootstrap" width="200"/>
-           <div className='app-link leading-loose longbox space-x-5 font-bold'>
-               <span class="bg-clip-text text-transparent bg-gradient-to-r from-teal-400 via-pink-500 to-purple-500 hover:no-underline Nav-links font-bold shadow-lg hover:no-underline Nav-links font-bold text-2xl hover:text-white">
-               <button id="maryEmail">maryleeprince.ga@gmail.com </button>
-            </span>
+
+           <div className='app-link leading-loose longbox space-x-5 '>
+              <div className="font-bold">maryleeprince.ga@gmail.com <span class="bg-clip-text text-transparent bg-gradient-to-r from-teal-400 via-pink-500 to-purple-500 shadow-lg hover:text-white ">
+               <button id="maryEmail">copy </button>
+            </span></div>
+               
             <div>
             <span class="bg-clip-text text-transparent bg-gradient-to-r from-teal-400 via-pink-500 to-purple-500 hover:no-underline Nav-links font-bold shadow-lg">
                <button><a href="https://www.linkedin.com/in/mary-prince-005404200/"><img className="transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110  duration-300" src={images.linkedIn} alt="my github" alt="marylogo" width="150"/>Linkedin</a></button>
