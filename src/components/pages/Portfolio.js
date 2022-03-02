@@ -14,7 +14,7 @@ export default function Portfolio() {
                 </a><br></br>
                 <a className="App-link-repo" href="https://github.com/Cheez0id/EpiMood" alt="repo">> Repo</a>
                 </card>
-                <iframe src="https://drive.google.com/file/d/14flS4Oj-f50S8AWWzbh7lSEEbSpgph-c/preview" width="640" height="480" allow="autoplay"></iframe>
+                <iframe className='inlineImage' src="https://drive.google.com/file/d/14flS4Oj-f50S8AWWzbh7lSEEbSpgph-c/preview" width="640" height="480" allow="autoplay"></iframe>
                 <card >
                 <h1><span class="bg-clip-text text-transparent bg-gradient-to-r from-teal-400 via-pink-500 to-purple-500 hover:no-underline Nav-links font-bold shadow-lg">
               Original Portfolio
