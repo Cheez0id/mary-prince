@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mary-prince/static/css/main.3e00bdd0.css",
-    "main.js": "/mary-prince/static/js/main.3aeb37fd.js",
+    "main.css": "/mary-prince/static/css/main.bb823521.css",
+    "main.js": "/mary-prince/static/js/main.664cdb24.js",
     "static/js/787.7b035dd0.chunk.js": "/mary-prince/static/js/787.7b035dd0.chunk.js",
     "static/media/hubbledeep.png": "/mary-prince/static/media/hubbledeep.fe362f6f609df5cdfafb.png",
     "static/media/Octocat.png": "/mary-prince/static/media/Octocat.363cb5edea582a89c41f.png",
@@ -28,13 +28,20 @@
     "static/media/weather.jpg": "/mary-prince/static/media/weather.0319c94f06bb309c1bb5.jpg",
     "static/media/social.jpg": "/mary-prince/static/media/social.74952b977f8c0196d292.jpg",
     "static/media/employee.jpg": "/mary-prince/static/media/employee.cedf85e7f7710914dc02.jpg",
+    "static/media/react.png": "/mary-prince/static/media/react.e310fdba3cc970b15d75.png",
+    "static/media/jest.png": "/mary-prince/static/media/jest.809768de8350fa5f6a21.png",
+    "static/media/javascript.png": "/mary-prince/static/media/javascript.6b10805823ee818c8e78.png",
+    "static/media/node.png": "/mary-prince/static/media/node.8915dc48d5cc35afa196.png",
+    "static/media/sql.png": "/mary-prince/static/media/sql.b0c6147089e1b6dc5f42.png",
+    "static/media/mongo.png": "/mary-prince/static/media/mongo.431db4905cf7ca1be31a.png",
+    "static/media/git.png": "/mary-prince/static/media/git.3513b36baa577a877226.png",
     "index.html": "/mary-prince/index.html",
-    "main.3e00bdd0.css.map": "/mary-prince/static/css/main.3e00bdd0.css.map",
-    "main.3aeb37fd.js.map": "/mary-prince/static/js/main.3aeb37fd.js.map",
+    "main.bb823521.css.map": "/mary-prince/static/css/main.bb823521.css.map",
+    "main.664cdb24.js.map": "/mary-prince/static/js/main.664cdb24.js.map",
     "787.7b035dd0.chunk.js.map": "/mary-prince/static/js/787.7b035dd0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3e00bdd0.css",
-    "static/js/main.3aeb37fd.js"
+    "static/css/main.bb823521.css",
+    "static/js/main.664cdb24.js"
   ]
 }
