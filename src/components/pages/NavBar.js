@@ -21,7 +21,7 @@ function NavBar({ currentPage, handlePageChange }) {
 
 				<li className="Nav-links">
 					<a href="#Portflio" onClick={() => handlePageChange("Portfolio")}>
-						<span class="bg-clip-text text-transparent bg-gradient-to-r from-teal-400 via-pink-500 to-purple-500 hover:no-underline Nav-links font-bold text-2xl ">
+						<span class="bg-clip-text text-transparent bg-gradient-to-r from-teal-400 via-pink-500 to-purple-500 hover:no-underline Nav-links font-bold text-2xl hover:text-white">
 							Portfolio
 						</span>
 					</a>

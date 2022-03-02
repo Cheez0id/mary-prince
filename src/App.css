@@ -1,3 +1,7 @@
+a {
+   @apply hover:text-white bg-clip-text text-transparent bg-gradient-to-r from-teal-400  to-purple-500 
+}
+
 .App {
   text-align: center;
 }
