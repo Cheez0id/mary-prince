@@ -24,13 +24,13 @@ export default function Contact() {
             </span>
             <div>
             <span class="bg-clip-text text-transparent bg-gradient-to-r from-teal-400 via-pink-500 to-purple-500 hover:no-underline Nav-links font-bold shadow-lg">
-               <button><a href="https://www.linkedin.com/in/mary-prince-005404200/"><img src={images.linkedIn} alt="my github" alt="marylogo" width="150"/>Linkedin</a></button>
+               <button><a href="https://www.linkedin.com/in/mary-prince-005404200/"><img className="transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110  duration-300" src={images.linkedIn} alt="my github" alt="marylogo" width="150"/>Linkedin</a></button>
             </span>
             <span class="bg-clip-text text-transparent bg-gradient-to-r from-teal-400 via-pink-500 to-purple-500 hover:no-underline Nav-links font-bold shadow-lg">
-               <button><a href="https://github.com/Cheez0id"><img src={images.octoCat} alt="my github" alt="marylogo" width="150"/>Github</a></button>
+               <button><a href="https://github.com/Cheez0id"><img className="transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110  duration-300" src={images.octoCat} alt="my github" alt="marylogo" width="150"/>Github</a></button>
             </span>
             <span class="bg-clip-text text-transparent bg-gradient-to-r from-teal-400 via-pink-500 to-purple-500 hover:no-underline Nav-links font-bold shadow-lg">
-               <button><a href="https://www.instagram.com/marypaintsart/"><img src={images.logoMp} alt="instagram" alt="marylogo" width="150"/>Instagram</a></button>
+               <button><a href="https://www.instagram.com/marypaintsart/"><img  className="transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110  duration-300" src={images.logoMp} alt="instagram" alt="marylogo" width="150"/>Instagram</a></button>
             </span>
             </div>
             
