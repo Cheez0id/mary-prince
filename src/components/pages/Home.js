@@ -18,7 +18,7 @@ export default function Home() {
 </section>
 
       
-      <div className='leading-loose '>
+      <div className='leading-loose longbox '>
         <section className='space-x-3 longbox'>
           <a className="App-link inline-flex transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110  duration-300" href="https://getbootstrap.com/"><img src={images.bootstrap} className="shadow-lg inlineImage" alt="bootstrap" width="100"/></a>
           <a className="App-link inline-flex transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110  duration-300" href="https://expressjs.com/"><img src={images.express} className="shadow-lg inlineImage" alt="bootstrap" width="100"/></a>
