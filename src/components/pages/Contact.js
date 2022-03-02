@@ -18,7 +18,7 @@ export default function Contact() {
 	return (
 		<div className="longbox App-body ">
 <div className= "App-body longbox bg-cover bg-fixed flex-wrap ">
-<img src={images.signature} alt="bootstrap" width="200"/>
+<img src={images.signature} alt="signature" width="200"/>
 
            <div className='app-link leading-loose longbox space-x-5 '>
               <div className="font-bold">maryleeprince.ga@gmail.com <span class="bg-clip-text text-transparent bg-gradient-to-r from-teal-400 via-pink-500 to-purple-500 shadow-lg hover:text-white ">
