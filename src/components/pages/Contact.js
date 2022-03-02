@@ -18,6 +18,7 @@ export default function Contact() {
 	return (
 		<div className="longbox App-body ">
 <div className= "App-body longbox bg-cover bg-fixed flex-wrap ">
+<img src={images.signature} alt="bootstrap" width="200"/>
            <div className='leading-loose longbox space-x-5 '>
                <span class="bg-clip-text text-transparent bg-gradient-to-r from-teal-400 via-pink-500 to-purple-500 hover:no-underline Nav-links font-bold shadow-lg">
                <button id="maryEmail">maryleeprince.ga@gmail.com </button>

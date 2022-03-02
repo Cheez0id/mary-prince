@@ -25,8 +25,19 @@ const images = {
   traditional: require('./traditional.jpg'),
   weather: require('./weather.jpg'),
   workDay: require('./workDay.jpg'),
- 
 
+
+ bootstrap: require('./bootstrap.png'),
+ express: require('./express.png'),
+ git: require('./git.png'),
+ handlebars: require('./handlebars.png'),
+ heroku: require('./heroku.png'),
+ javascript: require('./javascript.png'),
+ jest: require('./jest.png'),
+ mongo: require('./mongo.png'),
+ node: require('./node.png'),
+ react: require('./react.png'),
+ sql: require('./sql.png'),
 }
 
 export default images;

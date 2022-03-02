@@ -6,6 +6,7 @@ import images from "../../images/index";
 export default function Portfolio() {
     return (
       <div className= "App-body longbox bg-cover bg-fixed flex-wrap">
+           <img src={images.signature} className="float-left" alt="bootstrap" width="200"/>
            <section className='leading-loose longbox space-x-3 '>
            <h1><span class="bg-clip-text text-transparent bg-gradient-to-r from-teal-400 via-pink-500 to-purple-500 hover:no-underline Nav-links font-bold shadow-lg">
               Personal Projects

@@ -10,16 +10,11 @@ function NavBar({ currentPage, handlePageChange }) {
 					<a href="#home" onClick={() => handlePageChange("Home")}>
 						<img
 							src={images.logoPic2}
-							className="App-logo shadow-lg"
+							className="App-logo shadow-lg my-10"
 							alt="marylogo"
 							width="150"
 						/>
-						<img
-							src={images.signature}
-							className="shadow-lg"
-							alt="marylogo"
-							width="200"
-						/>
+						
 						Full-Stack Developer
 					</a>
 				</li>

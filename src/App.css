@@ -40,6 +40,16 @@
 	
 }
 
+.App-home {
+  background-image: 
+  url(
+"./darkRainbow.png");
+  min-height: 100vh;
+  display:flex;
+  font-size: calc(6px + 2vmin);
+  color: white;
+}
+
 
 .longbox {
 	margin-left: auto;
