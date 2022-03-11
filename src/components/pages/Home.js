@@ -30,8 +30,8 @@ export default function Home() {
           <a className="App-link inline-flex transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110  duration-300" href="https://www.mongodb.com/"><img src={images.mongo} className="shadow-lg inlineImage" alt="bootstrap" width="100"/></a>
           <a className="App-link inline-flex transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110  duration-300" href="https://nodejs.org/en/"><img src={images.node} className="shadow-lg inlineImage" alt="bootstrap" width="100"/></a>
           <a className="App-link inline-flex transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110  duration-300" href="https://reactjs.org/"><img src={images.react} className="shadow-lg inlineImage" alt="bootstrap" width="100"/></a>
-          <a className="App-link inline-flex transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110  duration-300" href="https://reactjs.org/"><img src={images.tailwind} className="shadow-lg inlineImage" alt="tailwind" width="100"/></a>
-          <a className="App-link inline-flex transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110  duration-300" href="https://reactjs.org/"><img src={images.obs} className="shadow-lg inlineImage" alt="obs" width="100"/></a>
+          <a className="App-link inline-flex transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110  duration-300" href="https://tailwindcss.com/"><img src={images.tailwind} className="shadow-lg inlineImage" alt="tailwind" width="100"/></a>
+          <a className="App-link inline-flex transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110  duration-300" href="https://obsproject.com/"><img src={images.obs} className="shadow-lg inlineImage" alt="obs" width="100"/></a>
           <a className="App-link inline-flex transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110  duration-300" href="https://www.mysql.com/"><img src={images.sql} className="shadow-lg inlineImage" alt="bootstrap" width="100"/></a>
           </section>
   
