@@ -43,7 +43,7 @@ function NavBar({ currentPage, handlePageChange }) {
 
 
 				<li className="Nav-links">
-					<a href={resume} download="Resume-MLP-1pg.pdf">
+					<a href={resume} download="MaryPrinceResume.pdf">
 						<button
 							class="bg-gradient-to-r from-purple-800 to-teal-500 hover:from-pink-500 hover:to-teal-500 text-white py-2 px-2 rounded focus:ring transform transition hover:scale-105 duration-300 ease-in-out shadow-lg absolute"
 							type="button"
