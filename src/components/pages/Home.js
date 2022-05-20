@@ -9,7 +9,7 @@ export default function Home() {
       <section className= "flex-wrap space-x-5">
         <img src={images.signature} alt="bootstrap" width="200"/>
       <p><ul>
-        <li>> Full-Stack Developer - Certificate (Expected 3/9/22)</li>
+        <li>> Full-Stack Developer - Certificate Obtained</li>
         <li>> Management Experience</li>
         <li>> Excellent Communicator</li>
         <li>> Agile and Creative</li>        
