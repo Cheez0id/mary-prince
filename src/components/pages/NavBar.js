@@ -52,6 +52,16 @@ function NavBar({ currentPage, handlePageChange }) {
 						</button>
 					</a>
 				</li>
+				<li className="Nav-links">
+					<a href={resume} download="MLPRESUME.pdf">
+						<button
+							class="bg-gradient-to-r from-purple-800 to-teal-500 hover:from-pink-500 hover:to-teal-500 text-white py-2 px-2 rounded focus:ring transform transition hover:scale-105 duration-300 ease-in-out shadow-lg absolute"
+							type="button"
+						>
+							Download Resume
+						</button>
+					</a>
+				</li>
 			</ul>
 		</nav>
 	);
