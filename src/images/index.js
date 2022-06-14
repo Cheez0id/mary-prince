@@ -24,7 +24,7 @@ const images = {
   snake: require('./snake.png'),
   social: require('./social.jpg'),
   tailwind: require('./tailwind.png'),
-  traditional: require('./traditional.jpg'),
+  traditional: require('./traditional.JPG'),
   weather: require('./weather.jpg'),
   workDay: require('./workDay.jpg'),
 
