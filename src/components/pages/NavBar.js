@@ -58,4 +58,5 @@ function NavBar({ currentPage, handlePageChange }) {
 	);
 }
 
+
 export default NavBar;
