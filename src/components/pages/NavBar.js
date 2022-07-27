@@ -1,6 +1,6 @@
 import React from "react";
 import images from "../../images/index";
-import resume from "../../Assets/MaryPrinceResume.pdf";
+import resume from "../../Assets/MLPResume2022.pdf";
 
 function NavBar({ currentPage, handlePageChange }) {
 	return (
