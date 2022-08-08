@@ -26,7 +26,7 @@ export default function Portfolio() {
             </span></h1>
                <a className="App-link inline-flex transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110  duration-300" href="https://cheez0id.github.io/MaryLeePrince-portfolio1/"><img src={images.logoMp} className="shadow-lg inlineImage" alt="epimoodlogo" width="200"/>
                 </a><br></br>
-                <button className=' transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110  duration-300'><a className="App-link-repo" href="https://cheez0id.github.io/MaryLeePrince-portfolio1/" alt="repo">> Repo</a></button>
+                <button className=' transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110  duration-300'><a className="App-link-repo" href="https://github.com/Cheez0id/MaryLeePrince-portfolio1" alt="repo">> Repo</a></button>
                 </card>
                 
              
