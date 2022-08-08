@@ -24,7 +24,7 @@ export default function Portfolio() {
                 <h1><span class="bg-clip-text text-transparent bg-gradient-to-r from-teal-400 via-pink-500 to-purple-500 hover:no-underline Nav-links font-bold shadow-lg">
               Original Portfolio
             </span></h1>
-               <a className="App-link inline-flex transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110  duration-300" href="https://epimoodtracker.herokuapp.com/"><img src={images.logoMp} className="shadow-lg inlineImage" alt="epimoodlogo" width="200"/>
+               <a className="App-link inline-flex transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110  duration-300" href="https://cheez0id.github.io/MaryLeePrince-portfolio1/"><img src={images.logoMp} className="shadow-lg inlineImage" alt="epimoodlogo" width="200"/>
                 </a><br></br>
                 <button className=' transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110  duration-300'><a className="App-link-repo" href="https://cheez0id.github.io/MaryLeePrince-portfolio1/" alt="repo">> Repo</a></button>
                 </card>
