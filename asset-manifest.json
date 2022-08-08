@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mary-prince/static/css/main.e07d9ca1.css",
-    "main.js": "/mary-prince/static/js/main.92e4a21e.js",
+    "main.js": "/mary-prince/static/js/main.8b6678d2.js",
     "static/js/787.7b035dd0.chunk.js": "/mary-prince/static/js/787.7b035dd0.chunk.js",
     "static/media/hubbledeep.png": "/mary-prince/static/media/hubbledeep.fe362f6f609df5cdfafb.png",
     "static/media/Octocat.png": "/mary-prince/static/media/Octocat.363cb5edea582a89c41f.png",
@@ -39,11 +39,11 @@
     "static/media/git.png": "/mary-prince/static/media/git.3513b36baa577a877226.png",
     "index.html": "/mary-prince/index.html",
     "main.e07d9ca1.css.map": "/mary-prince/static/css/main.e07d9ca1.css.map",
-    "main.92e4a21e.js.map": "/mary-prince/static/js/main.92e4a21e.js.map",
+    "main.8b6678d2.js.map": "/mary-prince/static/js/main.8b6678d2.js.map",
     "787.7b035dd0.chunk.js.map": "/mary-prince/static/js/787.7b035dd0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e07d9ca1.css",
-    "static/js/main.92e4a21e.js"
+    "static/js/main.8b6678d2.js"
   ]
 }
